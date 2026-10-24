@@ -1,0 +1,22 @@
+﻿## Временные файлы и кэш Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+## Результаты сборки и компиляции
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Файлы настроек пользователя
+*.suo
+
+## Служебные файлы операционной системы
+thumbs.db
+ehthumbs.db
+Desktop.ini
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
